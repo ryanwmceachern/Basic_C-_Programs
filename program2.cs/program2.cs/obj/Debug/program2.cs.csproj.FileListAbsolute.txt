@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\bin\Debug\program2.cs.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\bin\Debug\program2.cs.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\bin\Debug\program2.cs.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\obj\Debug\program2.cs.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\obj\Debug\program2.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\obj\Debug\program2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\obj\Debug\program2.cs.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\program2.cs\program2.cs\obj\Debug\program2.cs.pdb

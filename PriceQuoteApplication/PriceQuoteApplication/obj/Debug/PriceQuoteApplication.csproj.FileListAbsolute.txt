@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.pdb

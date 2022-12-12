@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\bin\Debug\mathString.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\bin\Debug\mathString.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\bin\Debug\mathString.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\obj\Debug\mathString.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\obj\Debug\mathString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\obj\Debug\mathString.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\obj\Debug\mathString.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathString\mathString\obj\Debug\mathString.pdb

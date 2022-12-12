@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\bin\Debug\mathproblems.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\bin\Debug\mathproblems.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\bin\Debug\mathproblems.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\obj\Debug\mathproblems.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\obj\Debug\mathproblems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\obj\Debug\mathproblems.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\obj\Debug\mathproblems.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\mathproblems\mathproblems\obj\Debug\mathproblems.pdb

@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\bin\Debug\methodsclass.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\bin\Debug\methodsclass.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\bin\Debug\methodsclass.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\obj\Debug\methodsclass.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\obj\Debug\methodsclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\obj\Debug\methodsclass.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\obj\Debug\methodsclass.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\methodsclass\methodsclass\obj\Debug\methodsclass.pdb

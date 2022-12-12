@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb

@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\bin\Debug\MathOperationAssignment.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\MathOperationAssignment\MathOperationAssignment\obj\Debug\MathOperationAssignment.pdb

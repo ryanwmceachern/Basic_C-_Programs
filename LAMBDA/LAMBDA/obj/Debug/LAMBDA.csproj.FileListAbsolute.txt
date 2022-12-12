@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\bin\Debug\LAMBDA.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\LAMBDA\LAMBDA\obj\Debug\LAMBDA.pdb

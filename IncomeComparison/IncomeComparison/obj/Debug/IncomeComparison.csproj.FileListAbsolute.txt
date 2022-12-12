@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb

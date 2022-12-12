@@ -1,0 +1,8 @@
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe.config
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\ConsoleAppStringsAndIntegers.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.exe
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\ConsoleAppStringsAndIntegers.pdb
