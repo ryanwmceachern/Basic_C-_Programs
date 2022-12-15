@@ -1,5 +1,5 @@
-﻿@using NewsLetter1.Models
-@model List<NewsletterSignUp>
+﻿@using NewsLetter1.ViewModels
+@model List<SignupVm>
 
 <div class="row no-gutters m-3">
     <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
@@ -7,17 +7,17 @@
             <h5 class="m-0">Sign-ups</h5>
         </div>
         <div class="card-body">
-            @foreach (var SignUps in Model)
+            @foreach (var SignUp in Model)
             {
                 <div class="row">
                     <div class="col">
-                        @SignUps.FristName
+                        @SignUp.FirstName
                     </div>
                     <div class="col">
-                        @SignUps.LastName
+                        @SignUp.LastName
                     </div>
                     <div class="col">
-                        @SignUps.EmailAddress
+                        @SignUp.EmailAddress
                     </div>
                 </div>
             }

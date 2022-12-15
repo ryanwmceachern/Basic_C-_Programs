@@ -77,3 +77,7 @@ C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\obj\De
 C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\obj\Debug\NewsLetter1.csproj.CopyComplete
 C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\obj\Debug\NewsLetter1.dll
 C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\obj\Debug\NewsLetter1.pdb
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\bin\EntityFramework.dll
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\bin\EntityFramework.SqlServer.dll
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\bin\EntityFramework.xml
+C:\Users\Robin\OneDrive\Desktop\Basic_C#_Programs\NewsLetter1\NewsLetter1\bin\EntityFramework.SqlServer.xml
