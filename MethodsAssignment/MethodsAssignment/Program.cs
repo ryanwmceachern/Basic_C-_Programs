@@ -22,7 +22,7 @@ namespace MethodsAssignment
             
             Class1 method = new Class1();
             //A message for if the user only chooses one integer
-            if (b = "")
+            if (b == "")
             {
                 int amount1 = a;
                 int amount2 = method.math(amount1);
