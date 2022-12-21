@@ -52,8 +52,8 @@ namespace CarInsurance.Controllers
             {
 
                 insuree.Quote = 50;
-                var dob = Convert.ToDateTime(insuree.DateOfBirth);
-                var age = DateTime.Now.Year - dob.Year;
+                var DOB = Convert.ToDateTime(insuree.DateOfBirth);
+                var age = DateTime.Now.Year - DOB.Year;
 
                 if (age <= 18)
                 {
