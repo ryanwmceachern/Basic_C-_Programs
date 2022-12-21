@@ -51,7 +51,7 @@ namespace CarInsurance.Controllers
             if (ModelState.IsValid)
             {
 
-                insuree.Quote = 50;
+                insuree.Quote = 50m;
                 var DOB = Convert.ToDateTime(insuree.DateOfBirth);
                 var age = DateTime.Now.Year - DOB.Year;
 
