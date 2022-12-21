@@ -12,9 +12,9 @@ namespace MethodsAssignment
         {
             //Asking the user to enter two integers one mandatory one optional.
             Console.WriteLine("Enter an integer.");
-            int a = (Console.ReadLine());
+            int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("\nYou now have the option to enter a second integer to the equation. (Note this integer is optional.)");
-            int b = (Console.ReadLine());
+            string b = (Console.ReadLine());
             Console.WriteLine("\nWe will now add your Integer(s).");
             
 
@@ -32,7 +32,7 @@ namespace MethodsAssignment
             //If the user decides to enter two integers.
             else if (b != "")
             {
-                int Amount3 = (b);
+                int Amount3 = Convert.ToInt32(b);
                 int amount = method.math(a, Amount3);
                 Console.WriteLine("\n" + a + " + " + Amount3 + " + " + 25 + " = " + amount);
             }
