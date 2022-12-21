@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 namespace AbstractClass
 {
     //Create another class called Employee and have it inherit from the Person class
-    class Employee : Person
+    public class Employee : Person
     {
         //Implement the SayName() method inside of the Employee class
-        public void SayName()
+        public override void SayName()
         {
 
+            base.SayName();
         }
     }
 }

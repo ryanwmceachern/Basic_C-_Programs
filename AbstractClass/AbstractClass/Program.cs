@@ -12,12 +12,15 @@ namespace AbstractClass
         {
 
             //instantiate an Employee object with firstName “Sample” and lastName “Student”.
-            Employee NewEmployee = new Employee()
-            { FirstName = "Sample", LastName = "Student" };
+            Employee NewEmployee = new Employee();
+            NewEmployee.FirstName = "Sample";
+            NewEmployee.LastName = "Student";
+            
             //Call the SayName() method on the object.
             NewEmployee.SayName();
             Console.ReadLine();
         }
+        
     }
     
 }

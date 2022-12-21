@@ -10,13 +10,15 @@ namespace AbstractClass
     public abstract class Person
     {
         
-        public string FirstName; { get; set; }
-        public string LastName;  { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
         //Give it the method SayName().
-        public void SayName()
+        public virtual void SayName()
         {
-
+         Console.WriteLine("Name: " + FirstName + "" + LastName);
         }
+
+        
     }
 }
