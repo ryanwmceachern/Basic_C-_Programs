@@ -10,7 +10,7 @@ namespace AbstractClass
     class Employee : Person
     {
         //Implement the SayName() method inside of the Employee class
-        public new void SayName()
+        public void SayName()
         {
 
         }

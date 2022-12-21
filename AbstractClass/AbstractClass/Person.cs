@@ -10,8 +10,8 @@ namespace AbstractClass
     public abstract class Person
     {
         
-        public string FirstName;
-        public string LastName;
+        public string FirstName; { get; set; }
+        public string LastName;  { get; set; }
 
         //Give it the method SayName().
         public void SayName()
