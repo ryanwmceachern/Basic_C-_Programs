@@ -50,17 +50,20 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                //logic changes for quote
-                insuree.Quote = 50m;
-                if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+
+                insuree.Quote = 50;
+                var dob = Convert.ToDateTime(insuree.DateOfBirth);
+                var age = DateTime.Now.Year - dob.Year;
+
+                if (age <= 18)
                 {
                     insuree.Quote += 100m;
                 }
-                if (25 - (DateTime.Now.Year - insuree.DateOfBirth.Year) < 6)
+                if (age >= 19 && age <= 25)
                 {
                     insuree.Quote += 50m;
                 }
-                if (DateTime.Now.Year - insuree.DateOfBirth.Year > 25)
+                if (age >= 26)
                 {
                     insuree.Quote += 25m;
                 }
